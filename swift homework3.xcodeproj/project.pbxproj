@@ -22,6 +22,7 @@
 		662A0E961DBDA340005BB86A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		662A0E991DBDA340005BB86A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		662A0E9B1DBDA340005BB86A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		662A0EA11DBDA35C005BB86A /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = "swift homework3/MyPlayground.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		662A0E831DBDA33F005BB86A = {
 			isa = PBXGroup;
 			children = (
+				662A0EA11DBDA35C005BB86A /* MyPlayground.playground */,
 				662A0E8E1DBDA340005BB86A /* swift homework3 */,
 				662A0E8D1DBDA340005BB86A /* Products */,
 			);
